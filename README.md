@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, 
+### I'm Umar, Software Engineer at kk Glister Technology
 
-<!--
-**uzakari3310/uzakari3310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
+- i'm a Software Engineer| Full-stack Web Dev || web Application || Software developer 
+- Proficient in Flutter, Python, JavaScript.
+-  Passionate about building robust applications qnd Softwares.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Programming Languages:** Python, Kotlin, JavaScript, SQL, Php and Swift.
+- **DevOps Tools:** Docker, Kubernetes, Jenkins
+
+## Projects
+- [Emergency Report system](https://ERP.com): A secure Emergency report application that enable Emergency report to a nearest authority or Hospitals.  
+
+## Connect with Me
+- LinkedIn: [Umar Zakariyya](https://www.linkedin.com/in/Uzakariyya)
+- Email: Umar Umarzakariyya740@gmail.com
+- Portfolio: [umarZakariyya.com](https://github/umarzakriyya.com)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uzakari3310&show_icons=true&theme=dark)
